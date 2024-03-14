@@ -101,7 +101,11 @@ const SignupPage = () => {
       navigate("/dashboard/diary-add")
     } else if (isRegisterError && registerErrorData) {
       let registerErrorDataObj: any = registerErrorData
-      enqueueSnackbar(JSON.stringify(registerErrorDataObj?.data?.errors), {
+      console.log(
+        "error : ",
+        JSON.stringify(registerErrorDataObj?.data?.errors),
+      )
+      enqueueSnackbar("User signup error!", {
         variant: "error",
       })
     }
