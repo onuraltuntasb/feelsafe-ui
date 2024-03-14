@@ -1,7 +1,4 @@
-
 <a name="readme-top"></a>
-
-
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -192,12 +189,10 @@ Some credits for this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 [contributors-shield]: https://img.shields.io/github/contributors/onuraltuntasb/feelsafe-ui.svg?style=for-the-badge
 [contributors-url]: https://github.com/onuraltuntasb/feelsafe-ui/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/onuraltuntasb/feelsafe-ui.svg?style=for-the-badge
-[forks-url]: https://github.com/onuraltuntasb/feelsafe-ui/forks
+[forks-url]: https://github.com/onuraltuntasb/feelsafe-ui/network/members
 [stars-shield]: https://img.shields.io/github/stars/onuraltuntasb/feelsafe-ui.svg?style=for-the-badge
 [stars-url]: https://github.com/onuraltuntasb/feelsafe-ui/stargazers
 [issues-shield]: https://img.shields.io/github/issues/onuraltuntasb/feelsafe-ui.svg?style=for-the-badge
